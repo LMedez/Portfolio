@@ -1,0 +1,24 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## "Learning is a constant process or it is nothing"
+
+  These technologies are my main skills, but I can work in multiple teamwork, for example in backend, frontend, differents data bases or any related environment
+  to development
+
+image: images/skill/skill_image.jpg
+
+skill:
+  - title: Kotlin
+    percent: 90
+  - title: Java
+    percent: 90
+  - title: Firebase
+    percent: 85
+  - title: Android SDK
+    percent: 80
+  - title: Material Design
+    percent: 75
+  - title: Node.js
+    percent: 70

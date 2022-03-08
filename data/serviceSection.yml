@@ -1,0 +1,74 @@
+---
+enable: true
+topTitle: Working Area
+title: >
+  ## Creative Services
+
+  Experience working with these technologies, appliyng the best coding style, robust and maintainable
+service:
+  - content: >
+      #### Android
+
+      Build mobile applications with robusts modular and maintainable project, based on Clean architecture
+      and most important designs pattern such as Observable, MVVM, MVC, Dependency injection, Single activity.
+    image: images/service/android.svg
+  - content: >
+      #### Java 
+
+      The first lenguage of my life, appliyng Object Oriented Paradigm with the four keys that every programmer should know
+      Abstraction, Polymorphism, Encapsulation and Inheritance   
+
+      _
+    image: images/service/java.svg
+  - content: >
+      #### Kotlin 
+
+      The main lenguage for Android development, more 2 years working with them
+      on Android and Desktop applications, and recently with Ktor framework for
+      backend development and build of Api REST
+
+
+      _
+    image: images/service/kotlin.svg
+  - content: >
+      #### Firebase
+
+      More two years using Firebase service as backend, managing features such as Firestore, Realtime Database, 
+      Authentication, Cloud functions, Remote config, Analitycs and also handling security rules system
+    image: images/service/firebase.svg
+  - content: >
+      #### Git/Github
+
+      All the projects that i build are versioned with Git and they are public and open source in Github's repositories
+      I have learned a lot from the open source projects on Github, so i'm very supportive of the open source community.
+    image: images/service/branding.svg
+  - content: >
+      #### Gradle
+
+      I work a lot with this DSL in my android projects, handling the differents build variants and product flavors for 
+      the differents versions of the same app such as, Paid, Subscription, Production or Development versions.
+    image: images/service/gradle.svg
+
+  - content: >
+      #### Github Actions
+
+      I manage the process of DevOps such as continuous integration and delivery continuous with GitHub Actions, automating
+      the build of aab. or apk. ,Test and publish these .aab to Play Store with the metadata
+    image: images/service/github.svg
+
+  - content: >
+      #### Node.js
+
+      I can work in any backend or building of an Api REST with Node JS and Express framework, integrating relational database
+      (Postgresql, MySql, etc) and no relational database (MongoDB, Firestore, etc)
+    image: images/service/node.svg
+
+  - content: >
+      #### Google Cloud
+
+      Technology management with cloud computing services from Google, including data management, 
+      hybrid & multi-cloud, AI & ML and Google's Api, app scalability, Google Analitycs.
+      
+
+      _
+    image: images/service/google-cloud.svg

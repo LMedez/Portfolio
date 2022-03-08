@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+  I'm a enthusiastic team person who enjoys learning.
+  Committed to producing high-quality, user-friendly, scalable and maintainable software. 
+content: >
+  ### Modern and robust UI with Material Design
+
+  I like to work in User Experience & User Interface designing. Creating intuitive and beautiful products with Material Design, 
+  following the Google's guidelines to build high-quality digital experiences for Android. I always
+  try my best to make good user interface with the best user experience.
+button1Name: Hire me
+button2Name: Download CV
+button1Target: contact
+button2Target: contact
+image: images/about/about-design.png

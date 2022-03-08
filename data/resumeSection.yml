@@ -1,0 +1,58 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Education
+
+  I am in continuous learning, trying to apply the best practices of software development in general
+
+
+
+  With more than 4 years in the community of development, I consider myself a person who learns very quickly.
+
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: education
+
+education:
+  - content: >
+      #### Software development Technician
+
+      As a student at Blas Pascal University, I have learned not only to improve my skills as a developer, but I have also grown a lot as a professional
+    time: 2019-2022
+
+  - content: >
+      #### Certificates in courses
+
+      I studied and got certified in various courses such as, Java, Android, and backend developer in Udemy but i prefer to learn researching in public repositories
+      or open source code of the community
+    time: 2018-2099
+  - content: >
+      #### Plan 111mil programmers
+
+      The first presencial course in which I have participated, stimulated by the government of Cordoba, Argentina. 
+      I have learned the basics of object-oriented programming development
+    time: 2018
+
+experience:
+  - content: >
+      #### Umbrella co. 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2016-Present
+  - content: >
+      #### Aperture Science 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2010-2016
+  - content: >
+      #### ACME Inc. 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2005-2010
+  - content: >
+      #### LexCorp 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2001-2005
