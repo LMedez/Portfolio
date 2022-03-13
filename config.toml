@@ -1,4 +1,4 @@
-baseURL = "https://lmedez.github.io/portfolio/"
+baseURL = "https://lmedez.github.io/Portfolio/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
